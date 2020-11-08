@@ -6,10 +6,7 @@ const Body = Matter.Body;
 var dustbin1, paperObject,groundObject;
 var world;
 
-function preload()
-{
-	
-}
+
 
 function setup() {
 	createCanvas(1250, 650);
